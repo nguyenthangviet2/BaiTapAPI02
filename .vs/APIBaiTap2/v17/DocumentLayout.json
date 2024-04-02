@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|c:\\users\\admin\\source\\repos\\apibaitap2\\apibaitap2\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|solutionrelative:apibaitap2\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|c:\\users\\admin\\source\\repos\\apibaitap2\\apibaitap2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|solutionrelative:apibaitap2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|c:\\users\\admin\\source\\repos\\apibaitap2\\apibaitap2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|solutionrelative:apibaitap2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|c:\\users\\admin\\source\\repos\\apibaitap2\\apibaitap2\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|solutionrelative:apibaitap2\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|c:\\users\\admin\\source\\repos\\apibaitap2\\apibaitap2\\services\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|solutionrelative:apibaitap2\\services\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|c:\\users\\admin\\source\\repos\\apibaitap2\\apibaitap2\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|solutionrelative:apibaitap2\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|c:\\users\\admin\\source\\repos\\apibaitap2\\apibaitap2\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|solutionrelative:apibaitap2\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|c:\\users\\admin\\source\\repos\\apibaitap2\\apibaitap2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|solutionrelative:apibaitap2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|c:\\users\\admin\\source\\repos\\apibaitap2\\apibaitap2\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|solutionrelative:apibaitap2\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|c:\\users\\admin\\source\\repos\\apibaitap2\\apibaitap2\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|solutionrelative:apibaitap2\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|c:\\users\\admin\\source\\repos\\apibaitap2\\apibaitap2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|solutionrelative:apibaitap2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|c:\\users\\admin\\source\\repos\\apibaitap2\\apibaitap2\\migrations\\20240402044040_hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A541A8DD-CC38-4D91-A4AB-7EAE68477E9E}|APIBaiTap2\\APIBaiTap2.csproj|solutionrelative:apibaitap2\\migrations\\20240402044040_hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "APIBaiTap2\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "APIBaiTap2\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:08:33.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "APIBaiTap2\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "APIBaiTap2\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:05:41.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\Services\\LibraryService.cs",
+              "RelativeDocumentMoniker": "APIBaiTap2\\Services\\LibraryService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\Services\\LibraryService.cs",
+              "RelativeToolTip": "APIBaiTap2\\Services\\LibraryService.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAcwA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:30:18.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\Services\\ILibraryService.cs",
+              "RelativeDocumentMoniker": "APIBaiTap2\\Services\\ILibraryService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\Services\\ILibraryService.cs",
+              "RelativeToolTip": "APIBaiTap2\\Services\\ILibraryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:24:42.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240402044040_hocSinh.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\Migrations\\20240402044040_hocSinh.cs",
+              "RelativeDocumentMoniker": "APIBaiTap2\\Migrations\\20240402044040_hocSinh.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\Migrations\\20240402044040_hocSinh.cs",
+              "RelativeToolTip": "APIBaiTap2\\Migrations\\20240402044040_hocSinh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:40:40.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\Program.cs",
+              "RelativeDocumentMoniker": "APIBaiTap2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\Program.cs",
+              "RelativeToolTip": "APIBaiTap2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:39:46.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "APIBaiTap2\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "APIBaiTap2\\Data\\DbInitializer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwDMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:35:59.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\appsettings.json",
+              "RelativeDocumentMoniker": "APIBaiTap2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\appsettings.json",
+              "RelativeToolTip": "APIBaiTap2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T04:34:46.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\Data\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "APIBaiTap2\\Data\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\Data\\SchoolDbContext.cs",
+              "RelativeToolTip": "APIBaiTap2\\Data\\SchoolDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:32:38.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\Models\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "APIBaiTap2\\Models\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\Models\\StudentCourse.cs",
+              "RelativeToolTip": "APIBaiTap2\\Models\\StudentCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:29:59.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "APIBaiTap2\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\Models\\Course.cs",
+              "RelativeToolTip": "APIBaiTap2\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:29:42.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "APIBaiTap2\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\APIBaiTap2\\APIBaiTap2\\Models\\Student.cs",
+              "RelativeToolTip": "APIBaiTap2\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:29:28.372Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

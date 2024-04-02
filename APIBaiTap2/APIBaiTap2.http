@@ -1,0 +1,6 @@
+@APIBaiTap2_HostAddress = http://localhost:5102
+
+GET {{APIBaiTap2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
